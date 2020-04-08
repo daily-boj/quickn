@@ -7,9 +7,9 @@
 | 2020-04-08 | Ruby V         | [BOJ](http://boj.kr/14346) | Google Code Jam 2016 World Final - Radioactive Islands (Small) [(Solution)](https://github.com/daily-boj/quickn/blob/master/P14346.rs) |
 | 2020-04-08 | Platinum IV    | [BOJ](http://boj.kr/14868) | KOI 2017 - 문명 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P14868.rs) |
 
-# Templates
-- [Scanner](https://github.com/daily-boj/quickn/blob/master/template-scanner.rs), [Source](https://github.com/EbTech/rust-algorithms)
+# Template(s)
+- [Scanner](https://github.com/daily-boj/quickn/blob/master/template-scanner.rs) [Source](https://github.com/EbTech/rust-algorithms)
 
-# Readme Template
+# Thanks
 - https://github.com/daily-boj/RanolP
 - https://github.com/daily-boj/kiwiyou
