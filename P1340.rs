@@ -6,6 +6,8 @@
 use std::str;
 use std::io::{self, BufWriter, Write};
 
+/* https://github.com/EbTech/rust-algorithms */
+
 /// Same API as Scanner but nearly twice as fast, using horribly unsafe dark arts
 /// **REQUIRES** Rust 1.34 or higher
 pub struct UnsafeScanner<R> {
