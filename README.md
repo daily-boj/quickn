@@ -7,5 +7,5 @@
 | 2020-04-08 | Ruby V         | [BOJ](http://boj.kr/14346) | Google Code Jam 2016 World Final - Radioactive Islands (Small) [(Solution)](https://github.com/daily-boj/quickn/blob/master/P14346.rs) |
 
 # Template
-https://github.com/daily-boj/RanolP
+https://github.com/daily-boj/RanolP \
 https://github.com/daily-boj/kiwiyou
