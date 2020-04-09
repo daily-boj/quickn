@@ -8,6 +8,8 @@
 | 2020-04-08 | Platinum IV    | [BOJ](http://boj.kr/14868) | KOI 2017 - 문명 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P14868.rs) |
 | 2020-04-09 | Diamond V~IV   | [BOJ](http://boj.kr/14869) | KOI 2017 - 요리 강좌 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P14869.rs) |
 | 2020-04-09 | Silver III     | [BOJ](http://boj.kr/1935) | 후위 표기식 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P1935.rs) |
+| 2020-04-10 | Silver III     | [BOJ](http://boj.kr/6236) | 용돈 관리 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P6236.rs) |
+| 2020-04-10 | Gold V         | [BOJ](http://boj.kr/1043) | 거짓말 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P1043.rs) |
 
 # Template(s)
 - [Scanner](https://github.com/daily-boj/quickn/blob/master/templates/template-scanner.rs) [Source](https://github.com/EbTech/rust-algorithms)
