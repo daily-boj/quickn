@@ -10,6 +10,7 @@
 | 2020-04-09 | Silver III     | [BOJ](http://boj.kr/1935) | 후위 표기식 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P1935.rs) |
 | 2020-04-10 | Silver III     | [BOJ](http://boj.kr/6236) | 용돈 관리 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P6236.rs) |
 | 2020-04-10 | Gold V         | [BOJ](http://boj.kr/1043) | 거짓말 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P1043.rs) |
+| 2020-04-10 | Diamond IV     | [BOJ](http://boj.kr/14870) | KOI 2017 - 조개 줍기 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P14870.rs) |
 
 # Template(s)
 - [Scanner](https://github.com/daily-boj/quickn/blob/master/templates/template-scanner.rs) [Source](https://github.com/EbTech/rust-algorithms)
