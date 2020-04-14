@@ -11,6 +11,13 @@
 | 2020-04-10 | Silver III     | [BOJ](http://boj.kr/6236) | 용돈 관리 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P6236.rs) |
 | 2020-04-10 | Gold V         | [BOJ](http://boj.kr/1043) | 거짓말 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P1043.rs) |
 | 2020-04-10 | Diamond IV     | [BOJ](http://boj.kr/14870) | KOI 2017 - 조개 줍기 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P14870.rs) |
+| 2020-04-11 | Diamond II     | [BOJ](http://boj.kr/15978) | KOI 2018 - 족보 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P15978.rs) |
+| 2020-04-11 | Bronze II      | [BOJ](http://boj.kr/1373) | 2진수 8진수 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P1373.rs) |
+| 2020-04-11 | Silver I       | [BOJ](http://boj.kr/1149) | RGB 거리 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P1149.rs) |
+| 2020-04-12 | Silver III     | [BOJ](http://boj.kr/3213) | 피자 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P3213.rs) |
+| 2020-04-12 | Silver III     | [BOJ](http://boj.kr/9461) | 파도반 수열 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P9461.rs) |
+| 2020-04-13 | Silver III     | [BOJ](http://boj.kr/2435) | 기상청 인턴 신현수 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P2435.rs) |
+| 2020-04-14 | Diamond III    | [BOJ](http://boj.kr/16941) | 꼬리별 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P16941.rs) |
 
 # Template(s)
 - [Scanner](https://github.com/daily-boj/quickn/blob/master/templates/template-scanner.rs) [Source](https://github.com/EbTech/rust-algorithms)
