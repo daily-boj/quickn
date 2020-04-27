@@ -22,6 +22,7 @@
 | 2020-04-13 | Silver III     | [BOJ](http://boj.kr/2435) | 기상청 인턴 신현수 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P2435.rs) |
 | 2020-04-14 | Diamond III    | [BOJ](http://boj.kr/16941) | 꼬리별 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P16941.rs) |
 | 2020-04-26 | Diamond II    | [BOJ](http://boj.kr/16164) | Möbius Madness [(Solution)](https://github.com/daily-boj/quickn/blob/master/P16164.rs) |
+| 2020-04-26 | Diamond II    | [BOJ](http://boj.kr/16141) | 정수론과 응용: 레시테이션 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P16141.rs) |
 | 2020-04-27 | Silver V    | [BOJ](http://boj.kr/10610) | 30 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P10610.rs) |
 | 2020-04-27 | Silver II    | [BOJ](http://boj.kr/2504) | 괄호의 값 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P2504.rs) |
 
