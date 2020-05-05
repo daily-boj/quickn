@@ -47,10 +47,30 @@ mod scanner {
     }
 }
 
+const MIN: i32 = -1000;
+
+use std::cmp::max;
+
 fn main() {
     let (stdin, stdout) = (io::stdin(), io::stdout());
     let (mut scan, mut sout) = (
         scanner::UnsafeScanner::new(stdin.lock()),
         BufWriter::new(stdout.lock()),
     );
+    let n: usize = scan.token();
+    let mut dp: Vec<i32> = vec![MIN;n];
+    let mut dp2: Vec<i32> = vec![MIN;n];
+    let mut res = MIN;
+    for i in 0..n {
+        let a_i: i32 = scan.token();
+        if i > 0 {
+            dp[i] = max(dp[i-1] + a_i, a_i);
+            dp2[i] = max(dp2[i-1] + a_i, dp[i-1]);
+        } else {
+            dp[i] = a_i;
+            dp2[i] = MIN;
+        }
+        res = max(res, max(dp[i], dp2[i]));
+    }
+    writeln!(sout, "{}", res).ok();
 }

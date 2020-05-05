@@ -25,6 +25,8 @@
 | 2020-04-26 | Diamond II    | [BOJ](http://boj.kr/16141) | 정수론과 응용: 레시테이션 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P16141.rs) |
 | 2020-04-27 | Silver V    | [BOJ](http://boj.kr/10610) | 30 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P10610.rs) |
 | 2020-04-27 | Silver II    | [BOJ](http://boj.kr/2504) | 괄호의 값 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P2504.rs) |
+| 2020-05-05 | Gold V       | [BOJ](http://boj.kr/13398) | 연속합 2 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P13398.rs) |
+| 2020-05-05 | Platinum II  | [BOJ](http://boj.kr/9250) | 문자열 집합 판별 [(Solution)](https://github.com/daily-boj/quickn/blob/master/P9250.rs) |
 
 # Template(s)
 - [Scanner](https://github.com/daily-boj/quickn/blob/master/templates/template-scanner.rs) [Source](https://github.com/EbTech/rust-algorithms)
