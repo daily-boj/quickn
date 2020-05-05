@@ -31,6 +31,9 @@
 # Template(s)
 - [Scanner](https://github.com/daily-boj/quickn/blob/master/templates/template-scanner.rs) [Source](https://github.com/EbTech/rust-algorithms)
 - [Tonelli-Shanks](https://github.com/daily-boj/quickn/blob/master/templates/tonelli-shanks.rs)
+- [Aho-Corasick](https://github.com/daily-boj/quickn/blob/master/templates/aho-corasick.rs)
+- [Pollard-Rho with factorization](https://github.com/daily-boj/quickn/blob/master/templates/pollard-rho-factorization.rs)
+- [Fast modulo power](https://github.com/daily-boj/quickn/blob/master/templates/fast-pow.rs)
 
 # Thanks
 - https://github.com/daily-boj/RanolP
